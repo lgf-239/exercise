@@ -1,0 +1,18 @@
+1603424227
+s:3559:"HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 23 Oct 2020 01:37:06 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Vary: Accept-Encoding
+X-XSS-Protection: 1; mode=block;
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Feature-Policy: accelerometer 'self'; ambient-light-sensor 'self'; autoplay 'self'; camera 'self'; encrypted-media 'self'; fullscreen 'self'; geolocation 'self'; gyroscope 'self'; magnetometer 'self'; microphone 'self'; midi 'self'; payment 'self'; picture-in-picture *; speaker 'self'; sync-xhr *; usb 'self'; vr 'self';
+X-Permitted-Cross-Domain-Policies: none
+Expect-CT: enforce, max-age=604800
+X-Backend-Server: vm2731.jn-hebergement.com
+
+{"modules":[{"id":"23867","name":"ps_facetedsearch","displayName":"Faceted search","categoryName":"B\u00fasquedas y Filtros","description":"Filtra tu cat&aacute;logo para ayudar a los visitantes a visualizar el esquema de categor&iacute;as y a navegar m&aacute;s f&aacute;cilmente por tu tienda","author":"PrestaShop","url":"https:\/\/addons.prestashop.com\/es\/busquedas-filtros\/23867-faceted-search.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download","serviceUrl":"","img":"https:\/\/medias1.prestastore.com\/img\/pico\/23867.jpg","fullDescription":"Filtra tu cat&aacute;logo para ayudar a los visitantes a visualizar el esquema de categor&iacute;as y a navegar m&aacute;s f&aacute;cilmente por tu tienda.","additionalDescription":"Utiliza este m&oacute;dulo nativo para lo siguiente:\r\n<ul>\r\n\t<li><strong>Facilitar la b&uacute;squeda: <\/strong>ayuda a los visitantes a acceder a tu cat&aacute;logo de productos. &iexcl;De hecho, solo tendr&aacute;n que mirar en el lugar adecuado para localizar los art&iacute;culos que necesiten!<\/li>\r\n\t<li><strong>Facilitar la navegaci&oacute;n por tu tienda:<\/strong> haz que a tus clientes les resulte m&aacute;s sencillo navegar por tu tienda y encontrar r&aacute;pidamente los productos que deseen.<\/li>\r\n<\/ul>\r\n","features":"Puedes definir la navegaci&oacute;n de tu tienda creando plantillas y distribuir las caracter&iacute;sticas y funcionalidades de tu cat&aacute;logo de productos como quieras. De hecho, ambos elementos pueden utilizarse como filtros de navegaci&oacute;n si se a&ntilde;aden al esquema de categor&iacute;as de b&uacute;squeda. Ello ayudar&aacute; sin duda a que los visitantes encuentren el art&iacute;culo que buscan.<br \/>\r\n<br \/>\r\nTambi&eacute;n puedes elaborar &iacute;ndices de precios y caracter&iacute;sticas y establecer tareas programadas para su mantenimiento.","customer_benefits":"","demo_video":"","version":"3.6.0","last_update":"2020-10-22 12:06:00","compatibility":{"from":"1.7.1.0","to":"1.7.7.0"},"price":{"EUR":0,"USD":0,"GBP":0},"badges":[{"label":"Made by PrestaShop","img":"https:\/\/medias2.prestastore.com\/themes\/prestastore\/img\/front\/sprites\/badges\/made-by-prestashop.png"}],"cover":{"small":"https:\/\/medias3.prestastore.com\/1294383-pprod\/faceted-search.jpg","big":"https:\/\/medias3.prestastore.com\/1294383-pbig\/faceted-search.jpg"},"pictures":{"small":["https:\/\/medias1.prestastore.com\/1294384-pprod\/faceted-search.jpg","https:\/\/medias2.prestastore.com\/1294385-pprod\/faceted-search.jpg"],"big":["https:\/\/medias1.prestastore.com\/1294384-pbig\/faceted-search.jpg","https:\/\/medias2.prestastore.com\/1294385-pbig\/faceted-search.jpg"]}}]}";

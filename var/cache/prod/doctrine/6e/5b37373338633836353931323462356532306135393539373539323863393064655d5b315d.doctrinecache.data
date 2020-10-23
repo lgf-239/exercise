@@ -1,0 +1,18 @@
+1603424205
+s:3016:"HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 23 Oct 2020 01:36:42 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Vary: Accept-Encoding
+X-XSS-Protection: 1; mode=block;
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Feature-Policy: accelerometer 'self'; ambient-light-sensor 'self'; autoplay 'self'; camera 'self'; encrypted-media 'self'; fullscreen 'self'; geolocation 'self'; gyroscope 'self'; magnetometer 'self'; microphone 'self'; midi 'self'; payment 'self'; picture-in-picture *; speaker 'self'; sync-xhr *; usb 'self'; vr 'self';
+X-Permitted-Cross-Domain-Policies: none
+Expect-CT: enforce, max-age=604800
+X-Backend-Server: vm2730.jn-hebergement.com
+
+{"modules":[{"id":"23868","name":"ps_languageselector","displayName":"Language selector block","categoryName":"Bloques, Pesta\u00f1as y Banners","description":"Muestra un selector de idioma en tu tienda para que los clientes puedan comprar en su idioma","author":"PrestaShop","url":"https:\/\/addons.prestashop.com\/es\/bloques-pestanas-banners\/23868-language-selector-block.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download","serviceUrl":"","img":"https:\/\/medias1.prestastore.com\/img\/pico\/23868.jpg","fullDescription":"Muestra un selector de idioma en tu tienda para que los clientes puedan comprar en su idioma.","additionalDescription":"Utiliza este m&oacute;dulo nativo para lo siguiente:\r\n<ul>\r\n\t<li><strong>Acceder al mercado internacional: <\/strong>facilita las ventas m&aacute;s all&aacute; de las fronteras posibilitando que los clientes elijan el idioma en el que deseen comprar.<\/li>\r\n<\/ul>\r\n","features":"Tus clientes podr&aacute;n elegir y seleccionar el idioma en el que prefieran comprar. Se mostrar&aacute;n a los visitantes los idiomas disponibles, cuya lista podr&aacute;s ampliar a trav&eacute;s de la secci&oacute;n &quot;Internacional&quot; del panel de administraci&oacute;n. De hecho, podr&aacute;s realizar esta gesti&oacute;n a&ntilde;adiendo un paquete de localizaci&oacute;n o entrando en la subsecci&oacute;n &quot;Idiomas&quot;.<br \/>\r\n<br \/>\r\nPor defecto, el selector de idiomas aparecer&aacute; en el encabezado de tu p&aacute;gina principal, si bien puede vincularse a otro hook (gancho) y mostrarse en otro lugar de tu front office (interfaz de cliente).","customer_benefits":"","demo_video":"","version":"2.1.0","last_update":"2020-10-22 12:06:01","compatibility":{"from":"1.7.1.0","to":"1.7.7.0"},"price":{"EUR":0,"USD":0,"GBP":0},"badges":[{"label":"Made by PrestaShop","img":"https:\/\/medias2.prestastore.com\/themes\/prestastore\/img\/front\/sprites\/badges\/made-by-prestashop.png"}],"cover":{"small":"https:\/\/medias3.prestastore.com\/1271862-pprod\/language-selector-block.jpg","big":"https:\/\/medias3.prestastore.com\/1271862-pbig\/language-selector-block.jpg"}}]}";
